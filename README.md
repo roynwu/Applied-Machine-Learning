@@ -1,2 +1,2 @@
 # Applied-Machine-Learning
-Code repo for applied machine learning assignments
+Collection of applied machine learning projects
