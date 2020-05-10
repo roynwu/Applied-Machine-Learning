@@ -10,8 +10,6 @@ To install Pandas, see installation instructions on the [Pandas website](pandas.
 
 * 1 - [Decision Trees](https://github.com/roynwu/Applied-Machine-Learning/blob/master/1.%20Decision%20Trees/notebook/decision_tree.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ifxNBdChd_8kqgWBxx9IEgce0afeEMMg?usp=sharing)
 
-* 1 - [Decision Trees](https://github.com/roynwu/Applied-Machine-Learning/blob/master/1.%20Decision%20Trees/notebook/decision_tree.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ifxNBdChd_8kqgWBxx9IEgce0afeEMMg?usp=sharing)
-
 * 2 - [Linear + Polynomial Regression](https://github.com/roynwu/Applied-Machine-Learning/blob/master/2.%20Linear%20%2B%20Polynomal%20Regression/notebook/linear%2Bpoly_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aIYae6nJXeQlOmgZYpI700C2fGZUmMIg?usp=sharing)
 
 * 3 - [Logistic Regression](https://github.com/roynwu/Applied-Machine-Learning/blob/master/3.%20Logistic%20Regression/notebook/logistic_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1T4Fk8J47EXLyJ4bHCR9OQGndrX2uYsy2?usp=sharing)
