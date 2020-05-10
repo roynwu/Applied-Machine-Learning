@@ -49,7 +49,7 @@ a single decision tree. We write a class that implements a boosted decision tree
 we learned in class: reinforcement learning and imitation learning.  
 
   In MountainCar, the agent’s actions control a car that is initially located at the bottom of a valley between
-two mountains, as seen in Fig 1. Success is defined as reaching the flag at the top of the hill on the
+two mountains. Success is defined as reaching the flag at the top of the hill on the
 right. However, the car has limited engine power, so the task is not quite as easy as driving to the right.
 Instead, a good policy would swing back and forth between the two hills for a while, slowly building up
 enough momentum to eventually be able to get to the flag. This task was initially developed to stress-test
